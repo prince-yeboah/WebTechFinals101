@@ -411,7 +411,7 @@
 								<!-- product widget -->
 								<div class="product-widget">
 									<div class="product-img">
-										<img src="./img/photo-1616789916189-3a0d215b6122.jpg" alt="">
+										<img src="./img/photo-1616789916189-3a0d215b6122.jfif" alt="">
 									</div>
 									<div class="product-body">
 										<p class="product-category">Category</p>
@@ -465,7 +465,7 @@
 								<!-- product widget -->
 								<div class="product-widget">
 									<div class="product-img">
-										<img src="./img/photo-1618843479313-40f8afb4b4d8.jpg" alt="">
+										<img src="./img/photo-1618843479313-40f8afb4b4d8.jfif" alt="">
 									</div>
 									<div class="product-body">
 										<p class="product-category">Category</p>
