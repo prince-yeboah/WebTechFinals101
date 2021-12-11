@@ -372,7 +372,7 @@
 								<!-- product widget -->
 								<div class="product-widget">
 									<div class="product-img">
-										<img src="./img/photo-1617814076231-2c58846db944.jpg" alt="">
+										<img src="./img/photo-1617814076231-2c58846db944.jfif" alt="">
 									</div>
 									<div class="product-body">
 										<p class="product-category">Category</p>
@@ -424,7 +424,7 @@
 								<!-- product widget -->
 								<div class="product-widget">
 									<div class="product-img">
-										<img src="./img/photo-1616875491585-8e2464195d5f.jpg" alt="">
+										<img src="./img/photo-1616875491585-8e2464195d5f.jfif" alt="">
 									</div>
 									<div class="product-body">
 										<p class="product-category">Category</p>
@@ -437,7 +437,7 @@
 								<!-- product widget -->
 								<div class="product-widget">
 									<div class="product-img">
-										<img src="./img/photo-1610099610040-ab19f3a5ec35.jpg" alt="">
+										<img src="./img/photo-1610099610040-ab19f3a5ec35.jfif" alt="">
 									</div>
 									<div class="product-body">
 										<p class="product-category">Category</p>
@@ -478,7 +478,7 @@
 								<!-- product widget -->
 								<div class="product-widget">
 									<div class="product-img">
-										<img src="./img/photo-1615228939096-9ead6c74008e.jpg" alt="">
+										<img src="./img/photo-1615228939096-9ead6c74008e.jfif" alt="">
 									</div>
 									<div class="product-body">
 										<p class="product-category">Category</p>
