@@ -372,7 +372,7 @@
 								<!-- product widget -->
 								<div class="product-widget">
 									<div class="product-img">
-										<img src="./img/photo-1617814076231-2c58846db944.jfif" alt="">
+										<img src="./img/photo-1617814076231-2c58846db944.jpg" alt="">
 									</div>
 									<div class="product-body">
 										<p class="product-category">Category</p>
@@ -411,7 +411,7 @@
 								<!-- product widget -->
 								<div class="product-widget">
 									<div class="product-img">
-										<img src="./img/photo-1616789916189-3a0d215b6122.jfif" alt="">
+										<img src="./img/photo-1616789916189-3a0d215b6122.jpg" alt="">
 									</div>
 									<div class="product-body">
 										<p class="product-category">Category</p>
@@ -424,7 +424,7 @@
 								<!-- product widget -->
 								<div class="product-widget">
 									<div class="product-img">
-										<img src="./img/photo-1616875491585-8e2464195d5f.jfif" alt="">
+										<img src="./img/photo-1616875491585-8e2464195d5f.jpg" alt="">
 									</div>
 									<div class="product-body">
 										<p class="product-category">Category</p>
@@ -437,7 +437,7 @@
 								<!-- product widget -->
 								<div class="product-widget">
 									<div class="product-img">
-										<img src="./img/photo-1610099610040-ab19f3a5ec35.jfif" alt="">
+										<img src="./img/photo-1610099610040-ab19f3a5ec35.jpg" alt="">
 									</div>
 									<div class="product-body">
 										<p class="product-category">Category</p>
@@ -465,7 +465,7 @@
 								<!-- product widget -->
 								<div class="product-widget">
 									<div class="product-img">
-										<img src="./img/photo-1618843479313-40f8afb4b4d8.jfif" alt="">
+										<img src="./img/photo-1618843479313-40f8afb4b4d8.jpg" alt="">
 									</div>
 									<div class="product-body">
 										<p class="product-category">Category</p>
@@ -478,7 +478,7 @@
 								<!-- product widget -->
 								<div class="product-widget">
 									<div class="product-img">
-										<img src="./img/photo-1615228939096-9ead6c74008e.jfif" alt="">
+										<img src="./img/photo-1615228939096-9ead6c74008e.jpg" alt="">
 									</div>
 									<div class="product-body">
 										<p class="product-category">Category</p>
@@ -521,7 +521,7 @@
 								<!-- product widget -->
 								<div class="product-widget">
 									<div class="product-img">
-										<img src="./img/images.jfif" alt="">
+										<img src="./img/images.jpg" alt="">
 									</div>
 									<div class="product-body">
 										<p class="product-category">Category</p>
